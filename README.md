@@ -226,6 +226,3 @@ ANTON NELCON Steve - Etudiant en Master Informatique et Big Data  à l'Universit
 
 **Note** : Ce projet a été créé à des fins d'analyse de données et de visualisation. Les données sont présentées à titre informatif et éducatif.
 **Dernière modifications** : 11 Février 2026
-- [Documentation Tableau](https://help.tableau.com/)
-- [Tableau Public Gallery](https://public.tableau.com/gallery)
-- [Best Practices for Dashboard Design](https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm)
