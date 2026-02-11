@@ -85,6 +85,23 @@ projet.twbx
 
 
 ---
+## →  Feuilles de Visualisation Individuelle
+
+
+En plus des dashboards complets, le projet inclut plusieurs feuilles de visualisation individuelles :
+
+- **Carte HIV/AIDS** - Répartition géographique du VIH/SIDA
+- **Carte Suicide** - Distribution mondiale du suicide
+- **Carte Tuberculose** - Prévalence de la tuberculose par pays
+- **Espérance de vie par pays** - Comparaisons détaillées
+- **F/M par année** - Évolution des disparités de genre dans le temps
+- **F/M par pays** - Comparaisons hommes/femmes par pays
+- **Infertilité dans le monde** - Analyse de l'infertilité globale
+- **Malaria vs Tuberculose** - Comparaison entre ces deux maladies
+- **Évolution Maladies Infectieuses** - Tendances temporelles
+- **Évolution Suicide** - Analyse chronologique du suicide
+
+---
 
 ##  → Indicateurs Analysés
 
@@ -177,7 +194,7 @@ Le projet exploite plus de 100 variables de santé, regroupées en plusieurs cat
 
 ### Étapes
 1. Télécharger le fichier `projet.twbx`
-2. Ouvrir avec Tableau Desktop/Reader
+2. Ouvrir avec Tableau Public
 3. Explorer les différents dashboards via les onglets
 4. Utiliser les filtres interactifs pour personnaliser les vues
 
@@ -220,6 +237,12 @@ ANTON NELCON Steve - Etudiant en Master Informatique et Big Data  à l'Universit
 ##  Contact
  
  → https://github.com/an-Steve/
+
+---
+## →  Liens Utiles
+
+- [Dataset Kaggle - Life Expectancy Data GHO](https://www.kaggle.com/datasets/adamsmith852/life-expectancy-data-gho)
+- [Documentation Tableau](https://help.tableau.com/)
 
 ---
 
