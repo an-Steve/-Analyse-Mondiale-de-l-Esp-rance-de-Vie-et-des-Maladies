@@ -86,7 +86,7 @@ projet.twbx
 
 ---
 
-## Indicateurs Analysés
+##  → Indicateurs Analysés
 
 Le projet exploite plus de 100 variables de santé, regroupées en plusieurs catégories :
 
