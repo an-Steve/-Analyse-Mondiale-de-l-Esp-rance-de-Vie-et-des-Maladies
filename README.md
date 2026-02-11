@@ -85,7 +85,7 @@ projet.twbx
 
 
 ---
-## →  Feuilles de Visualisation Individuelles
+## → Feuilles de Visualisation Individuelles
 
 En plus des dashboards complets, le projet inclut plusieurs feuilles de visualisation individuelles :
 
@@ -197,36 +197,48 @@ Analyse comparative hommes/femmes du suicide
 <td width="50%" valign="top">
 
 ### • Carte Alcool
-Analyse de taux de consommation d'alcool dans le  monde
+Analyse du taux de consommation d'alcool dans le monde
 
-<img width="1912" height="997" alt="image" src="https://github.com/user-attachments/assets/d00a9775-d730-4700-80fe-96be95b4392e" />
+<img width="100%" alt="Carte Alcool" src="https://github.com/user-attachments/assets/d00a9775-d730-4700-80fe-96be95b4392e" />
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### • Alcool vs Cirrhose
-Comparaison entre Alcool vs Cirrhose
+Comparaison entre consommation d'alcool et cirrhose
 
-<img width="1443" height="722" alt="image" src="https://github.com/user-attachments/assets/85a9cb05-7556-412a-945e-ca4bcbc23afd" />
+<img width="100%" alt="Alcool vs Cirrhose" src="https://github.com/user-attachments/assets/85a9cb05-7556-412a-945e-ca4bcbc23afd" />
 
 </td>
 <td width="50%" valign="top">
 
 ### • Troubles Alcool Top 15
 Le Top 15 des populations consommant de l'alcool
-<img width="1436" height="351" alt="image" src="https://github.com/user-attachments/assets/b1a180c7-a07f-4241-87ab-56ba272290f3" />
+
+<img width="100%" alt="Troubles Alcool Top 15" src="https://github.com/user-attachments/assets/b1a180c7-a07f-4241-87ab-56ba272290f3" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### • Alcool vs Accidents de la route
-Les accidents de ka route
-<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/72a7b06b-b3d2-4d23-a93c-8c87241e6586" />
+Impact de l'alcool sur les accidents de la route
+
+<img width="100%" alt="Alcool vs Accidents de la route" src="https://github.com/user-attachments/assets/72a7b06b-b3d2-4d23-a93c-8c87241e6586" />
 
 </td>
 <td width="50%" valign="top">
 
-
 </td>
 </tr>
 </table>
+
+---
 
 ---
 
