@@ -34,56 +34,55 @@ projet.twbx
 ```
 
 ## 📊 Dashboards Disponibles
-
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-### • Espérance de vie mondiale
+<h3>🌍 Espérance de vie mondiale</h3>
 
-<img src="https://github.com/user-attachments/assets/3b708a22-44da-444e-9ba6-fd744623ef0a" width="250"/>
+<img src="https://github.com/user-attachments/assets/3b708a22-44da-444e-9ba6-fd744623ef0a" width="260"/>
 
-Vue d'ensemble avec :
-- Carte interactive  
-- Tendances temporelles  
-- Comparaison homme/femme  
+<p align="left">
+• Carte interactive par pays <br>
+• Analyse des tendances temporelles <br>
+• Comparaison homme / femme
+</p>
 
 </td>
 
 <td align="center" width="33%">
 
-### • Maladies Infectieuses
+<h3>🦠 Maladies Infectieuses</h3>
 
-<img src="https://github.com/user-attachments/assets/130c44ed-439c-42a6-bc81-f82eab5e01af" width="250"/>
+<img src="https://github.com/user-attachments/assets/130c44ed-439c-42a6-bc81-f82eab5e01af" width="260"/>
 
-Analyse incluant :
-- Évolution de la tuberculose  
-- Répartition du VIH/SIDA  
-- Malaria vs tuberculose  
-- Tendances globales  
-
-</td>
-<td width="33%">
-
-<h3 align="center">• Suicide (Self-harm)</h3>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/e2ad7d88-d41f-48db-819d-341a4d9bb276" width="250"/>
-</p>
-
-<p align="right">
-Étude mondiale :
-<br>• Évolution temporelle  
-<br>• Disparités homme/femme  
-<br>• Cartographie  
+<p align="left">
+• Évolution de la tuberculose <br>
+• Répartition du VIH/SIDA <br>
+• Comparaison malaria vs tuberculose <br>
+• Tendances mondiales
 </p>
 
 </td>
 
+<td align="center" width="33%">
+
+<h3>💔 Suicide (Self-harm)</h3>
+
+<img src="https://github.com/user-attachments/assets/e2ad7d88-d41f-48db-819d-341a4d9bb276" width="260"/>
+
+<p align="left">
+• Évolution temporelle <br>
+• Disparités homme / femme <br>
+• Cartographie géographique
+</p>
+
+</td>
 
 </tr>
 </table>
+
 
 ---
 
