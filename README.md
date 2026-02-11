@@ -39,7 +39,7 @@ projet.twbx
 
 <td align="center" width="33%">
 
-<h3>🌍 Espérance de vie mondiale</h3>
+<h3> • Espérance de vie mondiale</h3>
 
 <img src="https://github.com/user-attachments/assets/3b708a22-44da-444e-9ba6-fd744623ef0a" width="260"/>
 
@@ -53,7 +53,7 @@ projet.twbx
 
 <td align="center" width="33%">
 
-<h3>🦠 Maladies Infectieuses</h3>
+<h3> • Maladies Infectieuses</h3>
 
 <img src="https://github.com/user-attachments/assets/130c44ed-439c-42a6-bc81-f82eab5e01af" width="260"/>
 
@@ -68,7 +68,7 @@ projet.twbx
 
 <td align="center" width="33%">
 
-<h3>💔 Suicide (Self-harm)</h3>
+<h3> • Suicide (Self-harm)</h3>
 
 <img src="https://github.com/user-attachments/assets/e2ad7d88-d41f-48db-819d-341a4d9bb276" width="260"/>
 
@@ -86,78 +86,88 @@ projet.twbx
 
 ---
 
-##  Indicateurs Analysés
+## Indicateurs Analysés
 
-Le projet exploite plus de 100 variables de santé, notamment :
+Le projet exploite plus de 100 variables de santé, regroupées en plusieurs catégories :
 
 <table>
 <tr>
-<td valign="top">
 
-**• Santé Générale**
+<td valign="top" width="33%">
 
-- Espérance de vie à la naissance
-- IMC (Indice de Masse Corporelle)
-- Consommation d'alcool
+<h4>Santé Générale</h4>
 
-</td>
-<td valign="top">
-
-**• Maladies Infectieuses**
-
-- Tuberculose
-- VIH/SIDA
-- Malaria
-- Maladies tropicales
-- Hépatites (A, B, C, E)
-- MST
+- Espérance de vie à la naissance  
+- IMC (Indice de Masse Corporelle)  
+- Consommation d'alcool  
 
 </td>
-<td valign="top">
 
-**• Maladies Respiratoires**
+<td valign="top" width="33%">
 
-- Infections respiratoires
-- Otite moyenne
-- Coqueluche
-- Diphtérie
+<h4>Maladies Infectieuses</h4>
+
+- Tuberculose  
+- VIH/SIDA  
+- Malaria  
+- Maladies tropicales  
+- Hépatites (A, B, C, E)  
+- MST  
 
 </td>
+
+<td valign="top" width="33%">
+
+<h4>Maladies Respiratoires</h4>
+
+- Infections respiratoires  
+- Otite moyenne  
+- Coqueluche  
+- Diphtérie  
+
+</td>
+
 </tr>
+
 <tr>
+
 <td valign="top">
 
-**• Cancers**
+<h4>Cancers</h4>
 
-- Cancer du poumon
-- Cancer du foie
-- Cancer de l'estomac
-- Cancer colorectal
-- Autres cancers
+- Cancer du poumon  
+- Cancer du foie  
+- Cancer de l'estomac  
+- Cancer colorectal  
+- Autres cancers  
 
 </td>
+
 <td valign="top">
 
-**• Conditions Néonatales**
+<h4>Conditions Néonatales</h4>
 
-- Complications de prématurité
-- Asphyxie à la naissance
-- Infections néonatales
+- Complications de prématurité  
+- Asphyxie à la naissance  
+- Infections néonatales  
 
 </td>
+
 <td valign="top">
 
-**• Carences Nutritionnelles**
+<h4>Carences Nutritionnelles</h4>
 
-- Malnutrition
-- Anémie ferriprive
-- Carences en vitamines
+- Malnutrition  
+- Anémie ferriprive  
+- Carences en vitamines  
 
 </td>
+
 </tr>
 </table>
 
 ---
+
 
 
 ## → Installation et Utilisation
