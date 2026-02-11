@@ -85,7 +85,7 @@ projet.twbx
 
 
 ---
-## 📄 Feuilles de Visualisation Individuelles
+## →  Feuilles de Visualisation Individuelles
 
 En plus des dashboards complets, le projet inclut plusieurs feuilles de visualisation individuelles :
 
