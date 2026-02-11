@@ -71,8 +71,7 @@ Le projet exploite plus de 100 variables de santé, notamment :
 <tr>
 <td valign="top">
 
-### 🩺 Santé Générale
-| Variables |
+| Santé Générale |
 |-----------|
 | Espérance de vie à la naissance |
 | IMC (Indice de Masse Corporelle) |
@@ -81,8 +80,7 @@ Le projet exploite plus de 100 variables de santé, notamment :
 </td>
 <td valign="top">
 
-### 🦠 Maladies Infectieuses
-| Variables |
+|  Maladies Infectieuses |
 |-----------|
 | Tuberculose |
 | VIH/SIDA |
