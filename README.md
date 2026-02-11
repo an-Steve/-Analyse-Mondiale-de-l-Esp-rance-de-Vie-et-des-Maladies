@@ -24,7 +24,7 @@ Ce projet utilise le dataset **"Life Expectancy Data GHO"**, disponible sur Kagg
 - **Comparer** les évolutions temporelles des indicateurs sanitaires
 - **Mettre en évidence** les disparités géographiques et démographiques
 
-## 📂 Structure du Projet
+## → Structure du Projet
 
 ```
 projet.twbx
@@ -33,7 +33,7 @@ projet.twbx
 └── Dashboards & Visualisations
 ```
 
-## 📊 Dashboards Disponibles
+## → Dashboards Disponibles
 <table>
 <tr>
 
@@ -346,4 +346,5 @@ ANTON NELCON Steve - Etudiant en Master Informatique et Big Data  à l'Universit
 ---
 
 **Note** : Ce projet a été créé à des fins d'analyse de données et de visualisation. Les données sont présentées à titre informatif et éducatif.
+
 **Dernière modifications** : 11 Février 2026
