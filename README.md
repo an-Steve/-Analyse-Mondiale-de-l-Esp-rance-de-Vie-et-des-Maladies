@@ -67,48 +67,80 @@ Analyse détaillée des maladies infectieuses incluant :
 ## 📈 Indicateurs Analysés
 
 Le projet exploite plus de 100 variables de santé, notamment :
+<table>
+<tr>
+<td valign="top">
 
-### Santé Générale
-- Espérance de vie à la naissance
-- IMC (Indice de Masse Corporelle)
-- Consommation d'alcool
+### 🩺 Santé Générale
+| Variables |
+|-----------|
+| Espérance de vie à la naissance |
+| IMC (Indice de Masse Corporelle) |
+| Consommation d'alcool |
 
-### Maladies Infectieuses
-- Tuberculose
-- VIH/SIDA
-- Malaria
-- Maladies tropicales (dengue, fièvre jaune, etc.)
-- Hépatites (A, B, C, E)
-- MST (syphilis, chlamydia, gonorrhée, etc.)
+</td>
+<td valign="top">
 
-### Maladies Respiratoires
-- Infections respiratoires hautes et basses
-- Otite moyenne
-- Coqueluche, diphtérie
+### 🦠 Maladies Infectieuses
+| Variables |
+|-----------|
+| Tuberculose |
+| VIH/SIDA |
+| Malaria |
+| Maladies tropicales |
+| Hépatites (A, B, C, E) |
+| MST |
 
-### Cancers
-- Cancer du poumon
-- Cancer du foie
-- Cancer de l'estomac
-- Cancer colorectal
-- Et autres types de cancers
+</td>
+<td valign="top">
 
-### Conditions Néonatales
-- Complications de prématurité
-- Asphyxie et traumatismes à la naissance
-- Infections néonatales
+### 🌬️ Maladies Respiratoires
+| Variables |
+|-----------|
+| Infections respiratoires |
+| Otite moyenne |
+| Coqueluche |
+| Diphtérie |
 
-### Carences Nutritionnelles
-- Malnutrition protéino-énergétique
-- Anémie ferriprive
-- Carences en vitamines et minéraux
+</td>
+</tr>
 
-## → Technologies Utilisées
+<tr>
+<td valign="top">
 
-- **Tableau Desktop** (version 2025.3.2)
-- **Format** : .twbx (Tableau Packaged Workbook)
-- **Source de données** : CSV (Life Expectancy Data)
----
+### 🎗️ Cancers
+| Variables |
+|-----------|
+| Cancer du poumon |
+| Cancer du foie |
+| Cancer de l'estomac |
+| Cancer colorectal |
+| Autres cancers |
+
+</td>
+<td valign="top">
+
+### 👶 Conditions Néonatales
+| Variables |
+|-----------|
+| Complications de prématurité |
+| Asphyxie à la naissance |
+| Infections néonatales |
+
+</td>
+<td valign="top">
+
+### 🥗 Carences Nutritionnelles
+| Variables |
+|-----------|
+| Malnutrition |
+| Anémie ferriprive |
+| Carences en vitamines |
+
+</td>
+</tr>
+</table>
+
 
 ## 📥 Installation et Utilisation
 
