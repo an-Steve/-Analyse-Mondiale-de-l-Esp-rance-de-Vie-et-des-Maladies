@@ -1,4 +1,4 @@
-# 🌍 Analyse Mondiale de l'Espérance de Vie et des Maladies  
+#  Analyse Mondiale de l'Espérance de Vie et des Maladies  
 
 → Réalisé par ANTON NELCON Steve - M1 IBD  
 
