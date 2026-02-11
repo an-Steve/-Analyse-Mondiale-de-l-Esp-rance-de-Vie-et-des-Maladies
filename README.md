@@ -204,6 +204,14 @@ Analyse de taux de consommation d'alcool dans le  monde
 </td>
 <td width="50%" valign="top">
 
+### • Alcool vs Cirrhose
+Comparaison entre Alcool vs Cirrhose
+
+<img width="1443" height="722" alt="image" src="https://github.com/user-attachments/assets/85a9cb05-7556-412a-945e-ca4bcbc23afd" />
+
+</td>
+<td width="50%" valign="top">
+
 </td>
 </tr>
 </table>
