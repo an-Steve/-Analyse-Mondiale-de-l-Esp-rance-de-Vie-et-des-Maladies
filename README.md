@@ -74,7 +74,7 @@ projet.twbx
 <td align="center" width="25%">
 
 ### • Alcool et ses Conséquences
-<img src="https://github.com/user-attachments/assets/d00a9775-d730-4700-80fe-96be95b4392e" width="200"/>
+<img width="680" height="902" alt="image" src="https://github.com/user-attachments/assets/6f8041ae-ecc4-4a8a-aed3-a9755fc29451" />
 <p align="left">
 • Carte de consommation mondiale <br>
 • Top 15 des pays consommateurs <br>
