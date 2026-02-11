@@ -40,7 +40,7 @@ projet.twbx
 <td align="center" width="25%">
 
 ### • Espérance de vie mondiale
-<img src="https://github.com/user-attachments/assets/e7c3e4a5-8b1f-4e89-a3e4-5c6d8e4f9b2a" width="200"/>
+<img width="680" height="891" alt="image" src="https://github.com/user-attachments/assets/6f25c233-a59c-4b60-9cb3-097b7e7b3625" />
 <p align="left">
 • Carte interactive par pays <br>
 • Analyse des tendances temporelles <br>
