@@ -33,14 +33,14 @@ projet.twbx
 └── Dashboards & Visualisations
 ```
 
-## 📊 Dashboards Disponibles
+## →  Dashboards Disponibles
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### • Espérance de vie mondiale
-<img src="https://github.com/user-attachments/assets/e7c3e4a5-8b1f-4e89-a3e4-5c6d8e4f9b2a" width="260"/>
+<img src="https://github.com/user-attachments/assets/e7c3e4a5-8b1f-4e89-a3e4-5c6d8e4f9b2a" width="200"/>
 <p align="left">
 • Carte interactive par pays <br>
 • Analyse des tendances temporelles <br>
@@ -48,10 +48,10 @@ projet.twbx
 </p>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### • Maladies Infectieuses
-<img src="https://github.com/user-attachments/assets/130c44ed-439c-42a6-bc81-f82eab5e01af" width="260"/>
+<img src="https://github.com/user-attachments/assets/130c44ed-439c-42a6-bc81-f82eab5e01af" width="200"/>
 <p align="left">
 • Évolution de la tuberculose <br>
 • Répartition du VIH/SIDA <br>
@@ -60,10 +60,10 @@ projet.twbx
 </p>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### • Suicide (Self-harm)
-<img src="https://github.com/user-attachments/assets/e2ad7d88-d41f-48db-819d-341a4d9bb276" width="260"/>
+<img src="https://github.com/user-attachments/assets/e2ad7d88-d41f-48db-819d-341a4d9bb276" width="200"/>
 <p align="left">
 • Évolution temporelle <br>
 • Disparités homme / femme <br>
@@ -71,12 +71,10 @@ projet.twbx
 </p>
 
 </td>
-</tr>
-<tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### • Alcool et ses Conséquences
-<img src="https://github.com/user-attachments/assets/d00a9775-d730-4700-80fe-96be95b4392e" width="260"/>
+<img src="https://github.com/user-attachments/assets/d00a9775-d730-4700-80fe-96be95b4392e" width="200"/>
 <p align="left">
 • Carte de consommation mondiale <br>
 • Top 15 des pays consommateurs <br>
@@ -85,16 +83,8 @@ projet.twbx
 </p>
 
 </td>
-<td align="center" width="33%">
-
-</td>
-<td align="center" width="33%">
-
-</td>
 </tr>
 </table>
-
----
 
 
 ---
