@@ -40,7 +40,7 @@ projet.twbx
 
 <td align="center" width="33%">
 
-### 🌍 Espérance de vie mondiale
+### • Espérance de vie mondiale
 
 <img src="https://github.com/user-attachments/assets/3b708a22-44da-444e-9ba6-fd744623ef0a" width="250"/>
 
@@ -53,7 +53,7 @@ Vue d'ensemble avec :
 
 <td align="center" width="33%">
 
-### 🦠 Maladies Infectieuses
+### • Maladies Infectieuses
 
 <img src="https://github.com/user-attachments/assets/130c44ed-439c-42a6-bc81-f82eab5e01af" width="250"/>
 
@@ -64,20 +64,97 @@ Analyse incluant :
 - Tendances globales  
 
 </td>
+<td width="33%">
 
-<td align="center" width="33%">
+<h3 align="center">• Suicide (Self-harm)</h3>
 
-### 💔 Suicide (Self-harm)
-
+<p align="center">
 <img src="https://github.com/user-attachments/assets/e2ad7d88-d41f-48db-819d-341a4d9bb276" width="250"/>
+</p>
 
+<p align="right">
 Étude mondiale :
-- Évolution temporelle  
-- Disparités homme/femme  
-- Cartographie  
+<br>• Évolution temporelle  
+<br>• Disparités homme/femme  
+<br>• Cartographie  
+</p>
 
 </td>
 
+
+</tr>
+</table>
+
+---
+
+##  Indicateurs Analysés
+
+Le projet exploite plus de 100 variables de santé, notamment :
+
+<table>
+<tr>
+<td valign="top">
+
+**• Santé Générale**
+
+- Espérance de vie à la naissance
+- IMC (Indice de Masse Corporelle)
+- Consommation d'alcool
+
+</td>
+<td valign="top">
+
+**• Maladies Infectieuses**
+
+- Tuberculose
+- VIH/SIDA
+- Malaria
+- Maladies tropicales
+- Hépatites (A, B, C, E)
+- MST
+
+</td>
+<td valign="top">
+
+**• Maladies Respiratoires**
+
+- Infections respiratoires
+- Otite moyenne
+- Coqueluche
+- Diphtérie
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**• Cancers**
+
+- Cancer du poumon
+- Cancer du foie
+- Cancer de l'estomac
+- Cancer colorectal
+- Autres cancers
+
+</td>
+<td valign="top">
+
+**• Conditions Néonatales**
+
+- Complications de prématurité
+- Asphyxie à la naissance
+- Infections néonatales
+
+</td>
+<td valign="top">
+
+**• Carences Nutritionnelles**
+
+- Malnutrition
+- Anémie ferriprive
+- Carences en vitamines
+
+</td>
 </tr>
 </table>
 
