@@ -85,21 +85,120 @@ projet.twbx
 
 
 ---
-## →  Feuilles de Visualisation Individuelle
-
+## 📄 Feuilles de Visualisation Individuelles
 
 En plus des dashboards complets, le projet inclut plusieurs feuilles de visualisation individuelles :
 
-- **Carte HIV/AIDS** - Répartition géographique du VIH/SIDA
-- **Carte Suicide** - Distribution mondiale du suicide
-- **Carte Tuberculose** - Prévalence de la tuberculose par pays
-- **Espérance de vie par pays** - Comparaisons détaillées
-- **F/M par année** - Évolution des disparités de genre dans le temps
-- **F/M par pays** - Comparaisons hommes/femmes par pays
-- **Infertilité dans le monde** - Analyse de l'infertilité globale
-- **Malaria vs Tuberculose** - Comparaison entre ces deux maladies
-- **Évolution Maladies Infectieuses** - Tendances temporelles
-- **Évolution Suicide** - Analyse chronologique du suicide
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### • Carte HIV/AIDS
+Répartition géographique du VIH/SIDA
+
+<img width="100%" alt="Carte HIV/AIDS" src="https://github.com/user-attachments/assets/3323c4e2-278e-484e-94b4-bb343023b32f" />
+
+</td>
+<td width="50%" valign="top">
+
+### • Carte Suicide
+Distribution mondiale du suicide
+
+<img width="100%" alt="Carte Suicide" src="https://github.com/user-attachments/assets/65835dba-60bc-4f99-a3a8-785b8d6de41e" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### • Carte Tuberculose
+Prévalence de la tuberculose par pays
+
+<img width="100%" alt="Carte Tuberculose" src="https://github.com/user-attachments/assets/3f2ebd0b-e108-417c-96af-9ca99c4b9325" />
+
+</td>
+<td width="50%" valign="top">
+
+### • Espérance de vie par pays (Carte)
+Vue cartographique mondiale
+
+<img width="100%" alt="Espérance de vie carte" src="https://github.com/user-attachments/assets/7eee307a-bcb0-4f92-94cc-f3c185b22d99" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### • Espérance de vie par pays
+Comparaisons détaillées
+
+<img width="100%" alt="Espérance de vie comparaison" src="https://github.com/user-attachments/assets/8a5675a9-7334-4bc5-ade5-ff39660c3398" />
+
+</td>
+<td width="50%" valign="top">
+
+### • F/M par pays
+Comparaisons hommes/femmes par pays
+
+<img width="100%" alt="F/M par pays" src="https://github.com/user-attachments/assets/f4529e26-f1de-4bde-9540-e764f67fefcd" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### • Infertilité dans le monde
+Analyse de l'infertilité globale
+
+<img width="100%" alt="Infertilité" src="https://github.com/user-attachments/assets/52bf14e7-fc52-4824-96c3-71b392f1a7bb" />
+
+</td>
+<td width="50%" valign="top">
+
+### • Malaria vs Tuberculose
+Comparaison entre ces deux maladies
+
+<img width="100%" alt="Malaria vs Tuberculose" src="https://github.com/user-attachments/assets/bcb0946a-120d-4210-8344-53c730344cd0" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### • Évolution Maladies Infectieuses
+Tendances temporelles des maladies infectieuses
+
+<img width="100%" alt="Évolution Maladies Infectieuses" src="https://github.com/user-attachments/assets/08c0264c-e9b3-41a7-88f8-8e41202cb2ce" />
+
+</td>
+<td width="50%" valign="top">
+
+### • Évolution Suicide
+Analyse chronologique du suicide
+
+<img width="100%" alt="Évolution Suicide" src="https://github.com/user-attachments/assets/d05b8143-e045-40ae-a15c-c465e6180093" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### • Évolution Suicide H/F
+Analyse comparative hommes/femmes du suicide
+
+<img width="100%" alt="Évolution Suicide H/F" src="https://github.com/user-attachments/assets/82d7adf1-6d2a-417e-b420-d52475de35d3" />
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
