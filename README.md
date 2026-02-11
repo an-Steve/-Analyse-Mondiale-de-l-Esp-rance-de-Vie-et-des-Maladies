@@ -196,6 +196,14 @@ Analyse comparative hommes/femmes du suicide
 </td>
 <td width="50%" valign="top">
 
+### • Carte Alcool
+Analyse de taux de consommation d'alcool dans le  monde
+
+<img width="1912" height="997" alt="image" src="https://github.com/user-attachments/assets/d00a9775-d730-4700-80fe-96be95b4392e" />
+
+</td>
+<td width="50%" valign="top">
+
 </td>
 </tr>
 </table>
