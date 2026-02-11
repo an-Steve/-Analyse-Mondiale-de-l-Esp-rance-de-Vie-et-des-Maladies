@@ -173,8 +173,7 @@ Le projet exploite plus de 100 variables de santé, regroupées en plusieurs cat
 ## → Installation et Utilisation
 
 ### Prérequis
-- Tableau Desktop ou Tableau Reader (version 2018.1 ou supérieure)
-- Ou accès à Tableau Public
+- Installer `Tableau Public`
 
 ### Étapes
 1. Télécharger le fichier `projet.twbx`
