@@ -71,7 +71,7 @@ Le projet exploite plus de 100 variables de santé, notamment :
 <tr>
 <td valign="top">
 
-| Santé Générale |
+| • Santé Générale |
 |-----------|
 | Espérance de vie à la naissance |
 | IMC (Indice de Masse Corporelle) |
@@ -80,7 +80,7 @@ Le projet exploite plus de 100 variables de santé, notamment :
 </td>
 <td valign="top">
 
-|  Maladies Infectieuses |
+| • Maladies Infectieuses |
 |-----------|
 | Tuberculose |
 | VIH/SIDA |
@@ -92,8 +92,8 @@ Le projet exploite plus de 100 variables de santé, notamment :
 </td>
 <td valign="top">
 
-### 🌬️ Maladies Respiratoires
-| Variables |
+ 
+| • Maladies Respiratoires|
 |-----------|
 | Infections respiratoires |
 | Otite moyenne |
@@ -106,8 +106,7 @@ Le projet exploite plus de 100 variables de santé, notamment :
 <tr>
 <td valign="top">
 
-### 🎗️ Cancers
-| Variables |
+| •  Cancers |
 |-----------|
 | Cancer du poumon |
 | Cancer du foie |
@@ -118,8 +117,8 @@ Le projet exploite plus de 100 variables de santé, notamment :
 </td>
 <td valign="top">
 
-### 👶 Conditions Néonatales
-| Variables |
+
+| • Conditions Néonatales |
 |-----------|
 | Complications de prématurité |
 | Asphyxie à la naissance |
@@ -128,8 +127,8 @@ Le projet exploite plus de 100 variables de santé, notamment :
 </td>
 <td valign="top">
 
-### 🥗 Carences Nutritionnelles
-| Variables |
+
+| • Carences Nutritionnelles |
 |-----------|
 | Malnutrition |
 | Anémie ferriprive |
@@ -139,8 +138,9 @@ Le projet exploite plus de 100 variables de santé, notamment :
 </tr>
 </table>
 
+--- 
 
-## 📥 Installation et Utilisation
+## → Installation et Utilisation
 
 ### Prérequis
 - Tableau Desktop ou Tableau Reader (version 2018.1 ou supérieure)
@@ -152,7 +152,9 @@ Le projet exploite plus de 100 variables de santé, notamment :
 3. Explorer les différents dashboards via les onglets
 4. Utiliser les filtres interactifs pour personnaliser les vues
 
-## 🔍 Fonctionnalités Interactives
+---
+
+##  Fonctionnalités Interactives
 
 - **Filtres dynamiques** : Sélection par pays, année, genre
 - **Cartes interactives** : Visualisation géographique avec gradients de couleur
@@ -160,7 +162,9 @@ Le projet exploite plus de 100 variables de santé, notamment :
 - **Comparaisons** : Vues côte à côte pour analyses comparatives
 - **Tooltips enrichis** : Informations détaillées au survol
 
-## 📊 Exemples de Visualisations
+---
+
+##  Exemples de Visualisations
 
 Le projet comprend notamment :
 - Cartes choroplèthes pour la répartition géographique
@@ -168,7 +172,7 @@ Le projet comprend notamment :
 - Graphiques en barres pour les comparaisons
 - Graphiques combinés pour les corrélations
 
-## 🌐 Sources de Données
+##  Sources de Données
 
 Les données proviennent d'un ensemble de données complet sur l'espérance de vie, couvrant :
 - **Période** : Données historiques et récentes
@@ -176,16 +180,16 @@ Les données proviennent d'un ensemble de données complet sur l'espérance de v
 - **Granularité** : Données annuelles par pays et par genre
 
 
-## 📄 Licence
+##  Licence
 
 Ce projet est disponible sous licence [préciser la licence si applicable].
 
-## 👤 Auteur
+##  Auteur
 
 ANTON NELCON Steve - Etudiant en Master Informatique et Big Data  à l'Université Paris 8 .
 
-## 📧 Contact
-
+##  Contact
+https://github.com/an-Steve/
 ---
 
 **Note** : Ce projet a été créé à des fins d'analyse de données et de visualisation. Les données sont présentées à titre informatif et éducatif.
