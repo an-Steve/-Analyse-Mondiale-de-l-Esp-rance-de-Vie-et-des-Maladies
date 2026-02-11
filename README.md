@@ -11,6 +11,7 @@
 
 Ce projet  présente une analyse interactive et complète de l'espérance de vie à l'échelle mondiale, en étudiant les facteurs de santé publique qui l'influencent. 
 Ce projet utilise le dataset **"Life Expectancy Data GHO"**, disponible sur Kaggle via ce lien : `[https://www.kaggle.com/datasets/adamsmith852/life-expectancy-data-gho](https://www.kaggle.com/datasets/adamsmith852/life-expectancy-data-gho).`
+
 À travers `Tableau Public`, ce projet explore plusieurs dashboards dynamiques les liens entre l'espérance de vie, les maladies infectieuses, les comportements à risque et les disparités de genre à travers le monde.
 
 ---
