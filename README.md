@@ -212,6 +212,18 @@ Comparaison entre Alcool vs Cirrhose
 </td>
 <td width="50%" valign="top">
 
+### • Troubles Alcool Top 15
+Le Top 15 des populations consommant de l'alcool
+<img width="1436" height="351" alt="image" src="https://github.com/user-attachments/assets/b1a180c7-a07f-4241-87ab-56ba272290f3" />
+
+### • Alcool vs Accidents de la route
+Les accidents de ka route
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/72a7b06b-b3d2-4d23-a93c-8c87241e6586" />
+
+</td>
+<td width="50%" valign="top">
+
+
 </td>
 </tr>
 </table>
