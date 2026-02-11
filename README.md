@@ -35,110 +35,54 @@ projet.twbx
 
 ## 📊 Dashboards Disponibles
 
-### 1. 🌍 Espérance de vie mondiale - Analyse
-<img width="672" height="910" alt="image" src="https://github.com/user-attachments/assets/3b708a22-44da-444e-9ba6-fd744623ef0a" />
-
-
-Vue d'ensemble de l'espérance de vie à travers le monde avec :
-- Carte interactive par pays
-- Analyse des tendances temporelles
-- Comparaison homme/femme
-
-### 2. 🦠 Maladies Infectieuses - Vue Mondiale
-<img width="646" height="918" alt="image" src="https://github.com/user-attachments/assets/130c44ed-439c-42a6-bc81-f82eab5e01af" />
-
-Analyse détaillée des maladies infectieuses incluant :
-- Évolution de la tuberculose
-- Répartition du VIH/SIDA
-- Comparaison malaria vs tuberculose
-- Tendances des maladies infectieuses dans le temps
-
-
-
-### 3. 💔 Analyse mondiale du suicide (Self-harm)
-
-<img width="717" height="897" alt="image" src="https://github.com/user-attachments/assets/e2ad7d88-d41f-48db-819d-341a4d9bb276" />
-
-Étude approfondie du suicide à l'échelle mondiale :
-- Évolution temporelle
-- Disparités homme/femme
-- Cartographie géographique
-
-## 📈 Indicateurs Analysés
-
-Le projet exploite plus de 100 variables de santé, notamment :
 <table>
 <tr>
-<td valign="top">
 
-| • Santé Générale |
-|-----------|
-| Espérance de vie à la naissance |
-| IMC (Indice de Masse Corporelle) |
-| Consommation d'alcool |
+<td align="center" width="33%">
 
-</td>
-<td valign="top">
+### 🌍 Espérance de vie mondiale
 
-| • Maladies Infectieuses |
-|-----------|
-| Tuberculose |
-| VIH/SIDA |
-| Malaria |
-| Maladies tropicales |
-| Hépatites (A, B, C, E) |
-| MST |
+<img src="https://github.com/user-attachments/assets/3b708a22-44da-444e-9ba6-fd744623ef0a" width="250"/>
+
+Vue d'ensemble avec :
+- Carte interactive  
+- Tendances temporelles  
+- Comparaison homme/femme  
 
 </td>
-<td valign="top">
 
- 
-| • Maladies Respiratoires|
-|-----------|
-| Infections respiratoires |
-| Otite moyenne |
-| Coqueluche |
-| Diphtérie |
+<td align="center" width="33%">
 
-</td>
-</tr>
+### 🦠 Maladies Infectieuses
 
-<tr>
-<td valign="top">
+<img src="https://github.com/user-attachments/assets/130c44ed-439c-42a6-bc81-f82eab5e01af" width="250"/>
 
-| •  Cancers |
-|-----------|
-| Cancer du poumon |
-| Cancer du foie |
-| Cancer de l'estomac |
-| Cancer colorectal |
-| Autres cancers |
+Analyse incluant :
+- Évolution de la tuberculose  
+- Répartition du VIH/SIDA  
+- Malaria vs tuberculose  
+- Tendances globales  
 
 </td>
-<td valign="top">
 
+<td align="center" width="33%">
 
-| • Conditions Néonatales |
-|-----------|
-| Complications de prématurité |
-| Asphyxie à la naissance |
-| Infections néonatales |
+### 💔 Suicide (Self-harm)
 
-</td>
-<td valign="top">
+<img src="https://github.com/user-attachments/assets/e2ad7d88-d41f-48db-819d-341a4d9bb276" width="250"/>
 
-
-| • Carences Nutritionnelles |
-|-----------|
-| Malnutrition |
-| Anémie ferriprive |
-| Carences en vitamines |
+Étude mondiale :
+- Évolution temporelle  
+- Disparités homme/femme  
+- Cartographie  
 
 </td>
+
 </tr>
 </table>
 
---- 
+---
+
 
 ## → Installation et Utilisation
 
@@ -182,14 +126,16 @@ Les données proviennent d'un ensemble de données complet sur l'espérance de v
 
 ##  Licence
 
-Ce projet est disponible sous licence [préciser la licence si applicable].
+Ce projet est disponible sous licence.
 
 ##  Auteur
 
 ANTON NELCON Steve - Etudiant en Master Informatique et Big Data  à l'Université Paris 8 .
 
 ##  Contact
-https://github.com/an-Steve/
+ 
+ → https://github.com/an-Steve/
+
 ---
 
 **Note** : Ce projet a été créé à des fins d'analyse de données et de visualisation. Les données sont présentées à titre informatif et éducatif.
